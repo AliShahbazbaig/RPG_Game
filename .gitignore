@@ -1,0 +1,53 @@
+# =========================
+# Visual Studio folders
+# =========================
+.vs/
+*.VC.db
+*.VC.opendb
+
+# =========================
+# Build folders
+# =========================
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# =========================
+# Compiled files
+# =========================
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
+*.idb
+*.ilk
+
+# =========================
+# CMake (if you ever use it)
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# =========================
+# Logs & temp files
+# =========================
+*.log
+*.tmp
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# SFML specific (optional)
+# =========================
+# Ignore SFML binaries if copied locally
+bin/
